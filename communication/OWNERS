@@ -1,0 +1,16 @@
+# See the OWNERS docs at https://go.k8s.io/owners
+
+reviewers:
+  - parispittman
+  - castrojo
+  - jdumars
+  - idvoretskyi
+  - jeefy
+  - mrbobbytables
+approvers:
+  - castrojo
+  - parispittman
+  - sig-contributor-experience-leads
+labels:
+  - sig/contributor-experience
+  - area/community-management
